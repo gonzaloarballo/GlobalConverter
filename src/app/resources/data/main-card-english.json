@@ -1,0 +1,65 @@
+[
+    {
+        "title-eng":"distance",
+        "title-spa":"distancia",
+        "icon-url":"",
+        "redirect-url":""
+    },
+
+    {
+        "title-eng":"temperature",
+        "title-spa":"temperatura",
+        "icon-url":"",
+        "redirect-url":""
+    },
+
+    {
+        "title-eng":"volume",
+        "title-spa":"volúmen",
+        "icon-url":"",
+        "redirect-url":""
+    },
+
+    {
+        "title-eng":"mass",
+        "title-spa":"masa",
+        "icon-url":"",
+        "redirect-url":""
+    },
+
+    {
+        "title-eng":"data",
+        "title-spa":"datos",
+        "icon-url":"",
+        "redirect-url":""
+    },
+
+    {
+        "title-eng":"speed",
+        "title-spa":"velocidad",
+        "icon-url":"",
+        "redirect-url":""
+    },
+
+    {
+        "title-eng":"time",
+        "title-spa":"tiempo",
+        "icon-url":"",
+        "redirect-url":""
+    },
+
+    {
+        "title-eng":"area",
+        "title-spa":"área",
+        "icon-url":"",
+        "redirect-url":""
+    },
+
+    {
+        "title-eng":"percentage",
+        "title-spa":"porcentaje",
+        "icon-url":"",
+        "redirect-url":""
+    }
+
+]
